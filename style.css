@@ -1,0 +1,79 @@
+
+h1 {
+text-align: center;
+background-color: #b9936c;
+background-size: contain;
+height: 60px;
+padding-top: 15px;
+width: 100%;
+}
+#whyandhow {
+	width: 50%;
+	height: 550px;
+	border-style: double;
+	border-radius: 15px;
+	top:50px;
+	down: 40px;
+	padding-left: 15px;
+	background-color: #dac292;
+	overflow: auto;
+
+
+
+}
+
+#video {
+	border-style: double;
+	border-width: thick;
+	position: relative; left: 57%; bottom: 550px;
+	border-radius: 15px;
+    
+}
+
+.info{
+font-family: serif;
+font-weight:lighter;
+line-height: 22px;
+margin-right: 20px;
+
+}
+
+#real{
+	width: 460px;
+	height: 250px;
+	position: absolute;
+	top: 500px;
+	left: 57%;
+	border-style: double;
+	border-width: thick;
+	border-radius: 15px;
+	
+}
+
+#statement{
+	font-weight: bolder;
+	position: absolute;
+	font-size: 20px;
+	top: 500px;
+	left: 52%;
+	z-index: 2;
+	color: black;
+}
+
+#bubble{
+	width: 250px;
+	height: 150px;
+	position: absolute;
+	top: 470px;
+	left:50%;
+	z-index: 1;
+	
+}
+button {
+width: 100px;
+font-size: 12 px;
+padding: 12px;
+background: #dbceb0;
+border: #d4ac6e;
+border-radius: 20px;
+}
